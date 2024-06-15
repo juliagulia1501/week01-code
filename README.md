@@ -1,1 +1,2 @@
-# week01-code
+# week02-code
+# week02-coding-assignment
